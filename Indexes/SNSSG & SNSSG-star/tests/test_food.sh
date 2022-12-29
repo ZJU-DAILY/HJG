@@ -1,0 +1,9 @@
+./test_nndescent 3 data/dfood/0/0.txt graph/food01.200NN.graph graph/food02.200NN.graph graph/food03.200NN.graph 200 400 12 15 100
+./test_nndescent 3 data/dfood/1/1.txt graph/food11.200NN.graph graph/food12.200NN.graph graph/food13.200NN.graph 200 400 12 15 100
+./test_nndescent 3 data/dfood/2/2.txt graph/food21.200NN.graph graph/food22.200NN.graph graph/food23.200NN.graph 200 400 12 15 100
+./test_nndescent 3 data/dfood/3/3.txt graph/food31.200NN.graph graph/food32.200NN.graph graph/food33.200NN.graph 200 400 12 15 100
+./test_nndescent 3 data/dfood/4/4.txt graph/food41.200NN.graph graph/food42.200NN.graph graph/food43.200NN.graph 200 400 12 15 100
+./test_nndescent 3 data/dfood/5/5.txt graph/food51.200NN.graph graph/food52.200NN.graph graph/food53.200NN.graph 200 400 12 15 100
+./test_nndescent 3 data/dfood/6/6.txt graph/food61.200NN.graph graph/food62.200NN.graph graph/food63.200NN.graph 200 400 12 15 100
+./test_nndescent 3 data/dfood/7/7.txt graph/food71.200NN.graph graph/food72.200NN.graph graph/food73.200NN.graph 200 400 12 15 100
+./test_nndescent 3 data/dfood/8/8.txt graph/food81.200NN.graph graph/food82.200NN.graph graph/food83.200NN.graph 200 400 12 15 100

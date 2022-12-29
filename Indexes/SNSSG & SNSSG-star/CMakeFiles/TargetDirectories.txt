@@ -1,0 +1,9 @@
+/home/mry/桌面/备份/efanna_graph-master/CMakeFiles/rebuild_cache.dir
+/home/mry/桌面/备份/efanna_graph-master/CMakeFiles/edit_cache.dir
+/home/mry/桌面/备份/efanna_graph-master/src/CMakeFiles/rebuild_cache.dir
+/home/mry/桌面/备份/efanna_graph-master/src/CMakeFiles/edit_cache.dir
+/home/mry/桌面/备份/efanna_graph-master/src/CMakeFiles/efanna2e_s.dir
+/home/mry/桌面/备份/efanna_graph-master/src/CMakeFiles/efanna2e.dir
+/home/mry/桌面/备份/efanna_graph-master/tests/CMakeFiles/rebuild_cache.dir
+/home/mry/桌面/备份/efanna_graph-master/tests/CMakeFiles/edit_cache.dir
+/home/mry/桌面/备份/efanna_graph-master/tests/CMakeFiles/test_nndescent.dir
