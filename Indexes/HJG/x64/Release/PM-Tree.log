@@ -1,0 +1,11 @@
+﻿  main.cpp
+H:\multi-metric_graph\code\TBG-0729 - v2\main.cpp(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+H:\multi-metric_graph\code\TBG-0729 - v2\main.cpp : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+H:\multi-metric_graph\code\TBG-0729 - v2\main.cpp(359,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\multi-metric_graph\code\TBG-0729 - v2\main.cpp(329,11): warning C4101: “radius”: 未引用的局部变量
+H:\multi-metric_graph\code\TBG-0729 - v2\main.cpp(344,18): warning C4101: “endt”: 未引用的局部变量
+H:\multi-metric_graph\code\TBG-0729 - v2\main.cpp(699,27): warning C4804: “>”: 在操作中使用类型“bool”不安全
+H:\multi-metric_graph\code\TBG-0729 - v2\main.cpp(732,30): warning C4804: “>”: 在操作中使用类型“bool”不安全
+H:\multi-metric_graph\code\TBG-0729 - v2\main.cpp(869,30): warning C4804: “>”: 在操作中使用类型“bool”不安全
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  PM-Tree.vcxproj -> H:\multi-metric_graph\code\TBG-0729 - v2\x64\Release\TBG.exe
