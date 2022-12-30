@@ -1,7 +1,7 @@
 
 ## Introduction
 
-This repo holds the source code and scripts for “HOPE: An Effective Hierarchical Joint Graph Structure for ANNS in Multi-Metric Spaces”
+This repo holds the source code and scripts for “HJG: An Effective Hierarchical Joint Graph for Approximate Nearest Neighbour Search in Multi-Metric Spaces”
 
 ## Usage
 
@@ -17,7 +17,7 @@ The second file contains the ids  for the quries.
 2. Indexes
 
 We implemented all the indexes using C++ with Visual Studio 2019.
-This file contains the source code files for RR*-tree, DESIRE, SNSSG, SNSSG* and our HOPE 
+This file contains the source code files for RR*-tree, DESIRE, SNSSG, SNSSG* and our HJG 
  In the sub folder, file 'data' contains the dataset, the query file and the execute parameters. 
 When using different dataset, modify the file 'par.txt', where the first parameter is the dataset path and the second is the query file path.
 
